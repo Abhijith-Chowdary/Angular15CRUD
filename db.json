@@ -1,0 +1,66 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Nandini",
+      "lastName": "Chowdary",
+      "email": "nandu@test.com",
+      "mobile": 9121334123,
+      "weight": 54,
+      "height": 1.5,
+      "bmi": 24,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-08T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Patil",
+      "email": "rp@yahoo.com",
+      "mobile": 8862234123,
+      "weight": 69,
+      "height": 1.8,
+      "bmi": 21.296296296296294,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-08T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Harika",
+      "lastName": "Ragir",
+      "email": "harikar@gmail.com",
+      "mobile": 7032399035,
+      "weight": 59,
+      "height": 1.6,
+      "bmi": 23.046874999999996,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-10T18:30:00.000Z",
+      "id": 3
+    }
+  ]
+}
